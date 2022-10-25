@@ -8,7 +8,7 @@
 <div class="row" >
     <div class="col-lg-12 margin-tb">
         <div class="pull-left">
-<h1 style="text-align:center;">Créer un nouveau Produit</h1>
+<h1 style="text-align:center;">Création d'un nouveau Produit</h1>
         </div>
         <div class="pull-right">
             <a class="btn btn-primary" href="{{ route('produit.index') }}"> Retour</a><br>
@@ -82,7 +82,7 @@
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12">
             <div class="form-group">
-                <label for="exampleFormControlFile1"><strong> Image du produit:</strong></label>
+                <label for="exampleFormControlFile1"><strong> Image:</strong></label>
                 <div class="col-md-6 col-sm-6 col-xs-12">
                 <input type="file" name="picture" class="form-control-file"  id="picture" class="data-picker form control col-md-7 col-xs-12">
             </div></div>

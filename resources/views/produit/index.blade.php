@@ -212,7 +212,7 @@ height : 100px;
                     <th style="border: 1px solid black;">Etagère</th>
                     <th style="border: 1px solid black;">Stock</th>
                     <th style="border: 1px solid black;">Solde</th>
-                    <th style="border: 1px solid black;">Barcode</th>
+                    <th style="border: 1px solid black;">Code barre</th>
                     <th style="border: 1px solid black;">Notes</th>
                     <th width="300px" style="border: 1px solid black;">Action</th>
                 </tr>

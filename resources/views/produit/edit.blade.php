@@ -4,7 +4,7 @@
     <div class="row">
         <div class="col-lg-12 margin-tb">
             <div class="pull-left">
-                <h2 style="text-align: center;">Modifier le Produit</h2>
+                <h2 style="text-align: center;">Modification du Produit</h2>
             </div>
             <div class="pull-right">
                 <a class="btn btn-primary" href="{{ route('produit.index') }}"> Retour</a>

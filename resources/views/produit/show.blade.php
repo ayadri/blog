@@ -49,7 +49,7 @@
         <div class="col-xs-12 col-sm-12 col-md-12">
             <div class="form-group">
                 <tr>
-                    <td> <strong>Unite:</strong></td>
+                    <td> <strong>Unité:</strong></td>
               <th>  {{ $produit->unite }}</th></tr>
             </div>
         </div>
@@ -63,7 +63,7 @@
         <div class="col-xs-12 col-sm-12 col-md-12">
             <div class="form-group">
                 <tr>
-                  <td>  <strong>Categorie:</td></strong>
+                  <td>  <strong>Catégorie:</td></strong>
                <th>  {{ $produit->categorie_id }}</th></tr>
             </div>
         </div>
